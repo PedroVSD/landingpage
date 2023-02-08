@@ -1,1 +1,0 @@
-window.alert("Opá, essa página é um protôtipo!!")
